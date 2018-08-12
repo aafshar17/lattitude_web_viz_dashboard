@@ -1,1 +1,2 @@
-# lattitude_web_viz_dashboard
+Link to the dashboard:
+
